@@ -67,3 +67,15 @@
 ### Esc + i - comando para permitir edicao de arquivo;
 
 ### python3 app3.py - comando para executar aplicacao web;
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img0.png)
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img1.png)
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img2.png)
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img3.png)
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img4.png)
+
+![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img5.png)
