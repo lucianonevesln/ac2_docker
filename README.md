@@ -12,9 +12,7 @@
 
 ### docker pull mysql:latest - comando que permite baixar ultima versao;
 
-### docker run --name mysql5 -e MYSQL_ROOT_PASSWORD=mudar123 -p 3307:3307 -d mysql:5.7 -
-
-### comando para subir o container;
+### docker run --name mysql5 -e MYSQL_ROOT_PASSWORD=mudar123 -p 3307:3307 -d mysql:5.7 - comando para subir o container;
 
 ### hash: b98e08bbed270adecb1b84890eabc63a81973aef75d19c65681b25dbec98e8b8
 
@@ -51,6 +49,8 @@
 ### desc tbl_user; - comando para mostrar informacoes da tabela;
 
 ### exit - comando para sair do ambiente que estiver;
+
+## * Conectando database com aplicacao
 
 ### ls - comando para visualizar pastas e arquivos do ambiente;
 
