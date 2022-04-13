@@ -68,6 +68,16 @@
 
 ### python3 app3.py - comando para executar aplicacao web;
 
+### docker image build -t python_web . - criacao de imagem baseado em dockerfile
+
+### docker image ls - elencar as imagens construidas
+
+### docker run python_web -d - sobe container baseado na imagem criada
+
+### docker run -p 5000:5000 -d python_web - define porta em que a app sera executada
+
+### docker run --link mysql5:mysql5 -p 5000:5000 -d python_web - associa com o banco de dados criado
+
 ![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img0.png)
 
 ![alt text](https://github.com/lucianonevesln/ac2_docker/blob/main/img1.png)
